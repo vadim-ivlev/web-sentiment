@@ -2,5 +2,5 @@
 
 git add -A .
 git commit -m "."
-git push origin github
+git push github master
 git push origin master
