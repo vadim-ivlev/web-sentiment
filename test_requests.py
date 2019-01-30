@@ -10,6 +10,7 @@ r.close()
 
 
 
+
 #%% this is a new cell
 
 from requests_html import HTMLSession
